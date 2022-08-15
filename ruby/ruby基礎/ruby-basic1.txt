@@ -1,1 +1,9 @@
-w
+
+#メソッドの定義
+def method_a
+    puts "this is method_a"
+end
+
+#メソッドを呼び出す
+method_a
+
