@@ -14,3 +14,8 @@ puts b[2]
 #ハッシュ
 h={"aaa"=> 232,"bbb"=> 232,"ccc"=> 232}
 puts h["aaa"]
+
+#cloud9へのMysqlインストール
+gem install mysql
+sudo yum install mysql-devely
+gem install mysql2
